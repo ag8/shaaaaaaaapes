@@ -1,2 +1,3 @@
 # shaaaaaaaapes
-asdfjk;ljaf;lskdjf;
+
+How to run: `python train.py`
