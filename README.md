@@ -2,7 +2,7 @@
 
 How to run: 
 
-* Set the desired data directory in FLAGS.py
+* Set the desired data directory in `FLAGS.py`
 * Run `python train.py`
 
 <br>
